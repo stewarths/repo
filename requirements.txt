@@ -2,5 +2,5 @@ numpy
 pandas
 streamlit
 pip
-sckit-learn
+scikit-learn
 sklearn
